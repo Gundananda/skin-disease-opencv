@@ -1,8 +1,4 @@
-```python
-# Write and render README.md for the Face Skin Disease Detection project (no images)
-from IPython.display import Markdown, display
 
-readme = r"""
 # 👩‍⚕️ Face Skin Disease Detection with Attention Fusion (TensorFlow/Keras)
 
 <div align="center">

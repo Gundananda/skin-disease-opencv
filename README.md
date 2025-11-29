@@ -164,12 +164,6 @@ Released under the MIT License. See `LICENSE`.
 
 ---
 
-## 👨‍💻 Authors
-
-- Your Name — add GitHub/LinkedIn links
-- Contributors welcome! Open an issue or PR.
-
----
 
 ⭐️ If this repo helps your work, consider giving it a star!
 """
